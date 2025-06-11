@@ -1,9 +1,8 @@
 {
   "name": "portofolio",
-  "private": true,
+    "homepage": "https://gwennix.github.io/portofolio",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gwennix.github.io/portofolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
